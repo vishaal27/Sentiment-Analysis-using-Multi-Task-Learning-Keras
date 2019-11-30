@@ -1,7 +1,7 @@
 # Sentiment-Analysis-using-Multi-Task-Learning-Keras
 
 ## Introduction
-A course project for the Deep Learning (CSE641) course at IIIT Delhi. The aim was to perform transfer learning on the task of sentiment classification
+A course project for the Deep Learning (CSE641) Spring'19 course at IIIT Delhi. The aim was to perform transfer learning on the task of sentiment classification
 using two datasets - Imdb and Insults in social commentary. 
 Three major approaches were followed: pure self-attention based models (transformers), transfer learning using chain-thaw method and multi-task learning. This repository contains the code for the multi-task learning architecture.
 
