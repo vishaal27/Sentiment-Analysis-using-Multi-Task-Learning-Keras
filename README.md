@@ -13,4 +13,6 @@ Three major approaches were followed: pure self-attention based models (transfor
 - `test_sentiment.py` creates and trains the model on the auxiliary task only (IMDB)
 - `checkpoints_<X>` contains the saved checkpoints for the corresponding models.
 
+The entire codebase with analysis and pre-trained models can be found at: https://drive.google.com/drive/folders/1zSLZiTWNfrtXnfGQ6rzs4QmnIeIhZJni?usp=sharing.
+
 
